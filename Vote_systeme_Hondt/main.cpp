@@ -74,7 +74,7 @@ voies[indicemax] = /nb-sieges_attribues+1
 nbsieges[indicemax] +=1 ) répeter nb_sieges fois
      */
     vector<string> vCandidats;
-    vector<float> vVoies(4, 0);
+    vector<unsigned> vVoies(4, 0);
     vector<int> vNbSieges(4,0);
     int nb_sieges=litUnEntier();
     for (int i=0; i<3; i++) {
@@ -87,10 +87,10 @@ nbsieges[indicemax] +=1 ) répeter nb_sieges fois
         int vote = litUnEntier();
         vVoies[vote-1] += 1;
     }
-    int nb_sieges_attribues=1;
+    unsigned nb_sieges_attribues=1;
     while (nb_sieges_attribues <= nb_sieges) {
         nb_sieges_attribues += 1;
-        float max=-1;
+        unsigned max=-1;
         int indicemax=0;
         for (int i=0; i<4; i++) {
             if(vVoies[i] > max) {
