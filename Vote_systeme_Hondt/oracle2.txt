@@ -1,0 +1,3 @@
+Nombre de sièges de Casali : 8
+Nombre de sièges de Martin-Nevot : 7
+Nombre de sièges de Anni : 0
