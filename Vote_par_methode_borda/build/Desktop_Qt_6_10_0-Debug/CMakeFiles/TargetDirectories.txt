@@ -1,0 +1,9 @@
+/home/toulouse/Documents/Cours/C++/Vote_par_methode_borda/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/Vote_par_methode_borda.dir
+/home/toulouse/Documents/Cours/C++/Vote_par_methode_borda/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/edit_cache.dir
+/home/toulouse/Documents/Cours/C++/Vote_par_methode_borda/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/rebuild_cache.dir
+/home/toulouse/Documents/Cours/C++/Vote_par_methode_borda/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/list_install_components.dir
+/home/toulouse/Documents/Cours/C++/Vote_par_methode_borda/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/install.dir
+/home/toulouse/Documents/Cours/C++/Vote_par_methode_borda/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/install/local.dir
+/home/toulouse/Documents/Cours/C++/Vote_par_methode_borda/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/install/strip.dir
+/home/toulouse/Documents/Cours/C++/Vote_par_methode_borda/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/Vote_par_methode_borda_autogen_timestamp_deps.dir
+/home/toulouse/Documents/Cours/C++/Vote_par_methode_borda/build/Desktop_Qt_6_10_0-Debug/CMakeFiles/Vote_par_methode_borda_autogen.dir
