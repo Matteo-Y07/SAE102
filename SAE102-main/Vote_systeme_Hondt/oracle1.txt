@@ -1,0 +1,4 @@
+Nombre de sièges de MartinNevot : 10
+Nombre de sièges de Casali : 5
+Nombre de sièges de Betari : 5
+Nombre de sièges de Anni : 0

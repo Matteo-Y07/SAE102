@@ -1,0 +1,4 @@
+Nombre de sièges de Makssoud : 1
+Nombre de sièges de Metidji : 5
+Nombre de sièges de Salou : 18
+Nombre de sièges de Delamotte : 6

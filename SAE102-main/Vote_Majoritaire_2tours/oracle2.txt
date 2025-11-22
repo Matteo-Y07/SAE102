@@ -1,0 +1,8 @@
+====Resultats tour 1====
+Mangue	Choco	Banane	Fraises	
+61	8	39	8	
+Second tour entre Mangue et Banane
+====Resultats tour 2====
+Mangue	Banane
+69	45
+Le gagnant du vote est donc : Mangue
