@@ -1,3 +1,0 @@
-Nombre de sièges de Toulouse : 4
-Nombre de sièges de Yanni : 3
-Nombre de sièges de Vincent : 3
